@@ -1,6 +1,6 @@
 - JrVr (Owner)/ (Updates)
 - Metro (Owner)
-- Astolfo (Main Dev)
+- Astolfo (Main Dev)/ (MOTD Helper)
 - All the mods
 - All the Trial Mods
 - And all the Admins
